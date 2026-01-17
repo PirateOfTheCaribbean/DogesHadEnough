@@ -1,13 +1,12 @@
-# [doGior](https://github.com/doGior)'s Had Enough
+# [PirateOfTheCaribbean](https://github.com/PirateOfTheCaribbean)'s Had Enough
 
-[Read in english](https://github.com/doGior/doGiorsHadEnough/blob/master/README_en.md) <br><br>
-Ciao sono doGior e sono stanco di cercare plugin per Cloudstream che finiscono per non funzionare
-ed essere abbandonati, quindi ho deciso di creare una mia repository.
+[Read in english](https://github.com/PirateOfTheCaribbean/DogesHadEnough/blob/master/README_en.md) <br><br>
+Anche io come doGior e sono stanco di cercare plugin per Cloudstream che finiscono per non funzionare, quindi ho fatto una mia patch on the fly
 
 ## Installazione
 
 Clicca sulla pizza per installare la repo oppure vai in *Impostazioni* -> *Estensioni* -> *Aggiungi
-repository* e nel campo URL scrivi **doGior**
+repository* e nel campo URL scrivi **DogesHadEnough**
 <p align="center">
   <img alt="alt_text" width="200px" src="pizza.png"/>
 </p>
